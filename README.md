@@ -1,6 +1,6 @@
 # Harry_Potter_Spells
 
-Use computervision to track the index finger, and store a log of the positions. 
+Use computervision to track the index finger, and store a log of the positions. Perhaps use numpy
 
 Connect the positions to a drawing.
 
